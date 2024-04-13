@@ -7,10 +7,10 @@
 Este é um desafio de projeto de desenvolvimento do módulo base do curso de tecnologia da Escola DNC.
 
 ### Tecnologias Utilizadas ❤️
-HTML5 | CSS3 | SHEET MONKEY
+HTML5 | CSS3 | SHEET MONKEY | Netlify
 
 ### Links 📌
-> Link do site disponibilizado: [DNC ARQUITETURA]()
+> Link do site disponibilizado: [DNC ARQUITETURA](https://dncarchitecture.netlify.app/)
 
 > Link da planilha de registro de informação: [Google Sheets](https://docs.google.com/spreadsheets/d/15_Ov9_XMfoQk21dt4Yl7H11OPQdf3X6Hc49IbUUu9fs/edit?usp=sharing)
 
