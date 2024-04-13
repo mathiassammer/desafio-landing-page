@@ -1,0 +1,101 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Inter", sans-serif;
+}
+
+#head {
+    background-color: #303030;
+}
+
+#title-head {
+    color: white;
+    padding: 206px 0px 0px 62px;
+    font-size: 45px;
+    font-weight: 600;
+}
+
+#description-head {
+    color: white;
+    padding: 20px 0px 149px 62px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#informations {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    background-color: #F9F9F9;
+}
+
+.text-information {
+    font-size: 20px;
+    font-weight: 400;
+    padding: 25px;
+    margin-left: 50px;
+}
+
+span {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+#architecture {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#texts-architecture {
+    padding: 304px 64px 290px 77px;
+}
+
+#title-architecture {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+#description-architecture {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+img {
+    width: 510px;
+    height: 605px;
+    padding: 82px 54px 92px 0px;
+}
+
+#form {
+    background-color: #303030;
+    text-align: center;
+}
+
+#title-form {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 60px 0px 20px 0px;
+}
+
+input {
+    width: 300px;
+    height: 45px;
+    border: 0px;
+    border-radius: 5px;
+    margin: 15px;
+    padding-left: 10px;
+}
+button {
+    background-color: #C07212;
+    width: 150px;
+    height: 40px;
+    color: #EAECE5;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-weight: bolder;
+    cursor: pointer;
+}
